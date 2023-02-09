@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TopDown2D.cpp.obj": [
+			"TopDown2DController.cpp.obj",
+			"TopDownCharacter.cpp.obj",
+			"TopDown2D.cpp.obj"
+		],
+		"Module.TopDown2D.gen.cpp.obj": [
+			"TopDown2D.init.gen.cpp.obj",
+			"TopDown2DController.gen.cpp.obj",
+			"TopDownCharacter.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,34 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\projects\\unreal\\lab\\plugins\\topdown2d\\intermediate\\build\\win64\\unrealgame\\shipping\\topdown2d\\module.topdown2d.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\unreal\\lab\\intermediate\\build\\win64\\lab\\shipping\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\projects\\unreal\\lab\\plugins\\topdown2d\\intermediate\\build\\win64\\unrealgame\\shipping\\topdown2d\\definitions.topdown2d.h",
+            "d:\\projects\\unreal\\lab\\plugins\\topdown2d\\intermediate\\build\\win64\\unrealgame\\inc\\topdown2d\\topdown2d.init.gen.cpp",
+            "d:\\projects\\unreal\\lab\\plugins\\topdown2d\\intermediate\\build\\win64\\unrealgame\\inc\\topdown2d\\topdown2dcontroller.gen.cpp",
+            "d:\\projects\\unreal\\lab\\plugins\\topdown2d\\source\\topdown2d\\public\\character\\topdown2dcontroller.h",
+            "d:\\projects\\unreal\\lab\\plugins\\topdown2d\\intermediate\\build\\win64\\unrealgame\\inc\\topdown2d\\topdown2dcontroller.generated.h",
+            "d:\\projects\\unreal\\lab\\plugins\\topdown2d\\intermediate\\build\\win64\\unrealgame\\inc\\topdown2d\\topdowncharacter.gen.cpp",
+            "d:\\projects\\unreal\\lab\\plugins\\topdown2d\\source\\topdown2d\\public\\character\\topdowncharacter.h",
+            "d:\\ue_5.0\\engine\\plugins\\marketplace\\paperzd\\source\\paperzd\\public\\paperzdcharacter.h",
+            "d:\\ue_5.0\\engine\\plugins\\2d\\paper2d\\source\\paper2d\\classes\\papercharacter.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\charactermovementreplication.generated.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\rootmotionsource.generated.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\character.generated.h",
+            "d:\\ue_5.0\\engine\\plugins\\2d\\paper2d\\intermediate\\build\\win64\\unrealgame\\inc\\paper2d\\papercharacter.generated.h",
+            "d:\\ue_5.0\\engine\\plugins\\marketplace\\paperzd\\source\\paperzd\\public\\sequencer\\ipaperzdsequencersource.h",
+            "d:\\ue_5.0\\engine\\plugins\\marketplace\\paperzd\\intermediate\\build\\win64\\unrealgame\\inc\\paperzd\\ipaperzdsequencersource.generated.h",
+            "d:\\ue_5.0\\engine\\plugins\\marketplace\\paperzd\\intermediate\\build\\win64\\unrealgame\\inc\\paperzd\\paperzdcharacter.generated.h",
+            "d:\\ue_5.0\\engine\\plugins\\experimental\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "d:\\ue_5.0\\engine\\plugins\\experimental\\enhancedinput\\intermediate\\build\\win64\\unrealgame\\inc\\enhancedinput\\inputactionvalue.generated.h",
+            "d:\\projects\\unreal\\lab\\plugins\\topdown2d\\intermediate\\build\\win64\\unrealgame\\inc\\topdown2d\\topdowncharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

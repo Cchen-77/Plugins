@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\projects\\unreal\\lab\\plugins\\topdown2d\\source\\topdown2d\\private\\topdown2d.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\unreal\\lab\\intermediate\\build\\win64\\labeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\projects\\unreal\\lab\\plugins\\topdown2d\\intermediate\\build\\win64\\unrealeditor\\development\\topdown2d\\definitions.topdown2d.h",
+            "d:\\projects\\unreal\\lab\\plugins\\topdown2d\\source\\topdown2d\\public\\topdown2d.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

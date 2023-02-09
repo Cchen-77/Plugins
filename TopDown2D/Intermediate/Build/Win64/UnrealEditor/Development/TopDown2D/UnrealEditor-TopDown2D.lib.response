@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TopDown2D.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Projects\Unreal\Lab\Intermediate\Build\Win64\LabEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Projects\Unreal\Lab\Plugins\TopDown2D\Intermediate\Build\Win64\UnrealEditor\Development\TopDown2D\Module.TopDown2D.cpp.obj"
+"D:\Projects\Unreal\Lab\Plugins\TopDown2D\Intermediate\Build\Win64\UnrealEditor\Development\TopDown2D\Module.TopDown2D.gen.cpp.obj"
+"D:\Projects\Unreal\Lab\Plugins\TopDown2D\Intermediate\Build\Win64\UnrealEditor\Development\TopDown2D\Default.rc2.res"
+/OUT:"D:\Projects\Unreal\Lab\Plugins\TopDown2D\Intermediate\Build\Win64\UnrealEditor\Development\TopDown2D\UnrealEditor-TopDown2D.lib"
